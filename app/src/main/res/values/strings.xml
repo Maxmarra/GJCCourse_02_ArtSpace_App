@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+
+    <string name="artist">Кандинский (1915)</string>
+    <string name="title_1">Лето</string>
+    <string name="title_2">Осень</string>
+    <string name="title_3">Весна</string>
+</resources>
